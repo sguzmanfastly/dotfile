@@ -3,8 +3,6 @@
 .azure
 **/*.cache
 .config/tmux
-.config/nvim
-!.config/nvim/lua/custom
 .docker
 .dotnet
 .gnupg
